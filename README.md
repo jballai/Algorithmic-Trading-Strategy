@@ -12,3 +12,5 @@ The theory behind why this works is based on the concept, "Regression toward the
 For my trading strategy, I set up these bounds to decide when the stock would be bought and sold.  When the stock would dip below the Lower bound, I would allocate 100% of the money I was using into buying the stock.  Once the stock was bought, I would hold onto the stock until the stock rises above the Upper bound, in which case I would then sell 100% of that stock.
 
 
+![Bollinger Bands for Microsoft Close Prices](MSFT_Close_Prices_with_Bollinger_Bands_Graph.png)
+
